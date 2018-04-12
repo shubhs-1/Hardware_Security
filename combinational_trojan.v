@@ -1,4 +1,4 @@
-module finalcode(i,res,c);
+module combinational_trojan(i,res,c);
 input [9:0] i;
 input c;
 output res;
