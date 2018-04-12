@@ -1,4 +1,4 @@
-module seq_trojan(i,res,c);
+module sequential_trojan(i,res,c);
 input [9:0] i;
 input c;
 output res;
