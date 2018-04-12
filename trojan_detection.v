@@ -1,4 +1,4 @@
-module testbench(res);
+module trojan_detection(res);
 reg [9:0] i;
 integer correct;
 reg [3:0] capture [0:1023];
